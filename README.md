@@ -1,5 +1,5 @@
 # cs.ucr.edu/~xhua006
-Personal School Website 
+Personal School Website (ALL LIFE HACKS) OR LIFE SAVER
 
 <b>First you must be A UCR BCOE College Student</b>
 
@@ -12,3 +12,9 @@ https://chris.beams.io/posts/git-commit/
  
 ## How to get your Free Windows 10 or Windows 8.1: 
 https://msdnaa.cs.ucr.edu/
+
+## How to get your Free Office 365:
+https://cnc.ucr.edu/scs/office365.html
+
+## 
+
