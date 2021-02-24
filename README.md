@@ -1,4 +1,5 @@
-# cs.ucr.edu/~xhua006
+# Personal Website for Resume
+cs.ucr.edu/~xhua006
 Personal School Website (ALL LIFE HACKS) OR LIFE SAVER
 
 <b>First you must be A UCR BCOE College Student</b>
